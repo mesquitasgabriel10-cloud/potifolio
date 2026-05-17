@@ -66,16 +66,6 @@ PortfolioHUB/
 
 ---
 
-# 📸 Preview
-
-<div align="center">
-
-<img src="https://i.imgur.com/2wYQZ6K.png" width="700">
-
-</div>
-
----
-
 # 📁 Projetos
 
 ## 🔹 Projeto 1 — Página Web
