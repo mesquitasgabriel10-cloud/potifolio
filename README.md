@@ -1,5 +1,3 @@
-<img width="779" height="437" alt="image" src="https://github.com/user-attachments/assets/aabbd4ed-0070-4ac6-9cfc-7005a0737edd" /><div align="center">
-
 # ✨ PortfolioHUB ✨
 
 ### 🚀 Repositório de Projetos Acadêmicos e Pessoais
@@ -134,7 +132,7 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 <div align="center">
 
-## Seu Nome
+## Gabriel Mesquita
 
 💼 Estudante de Tecnologia  
 🚀 Futuro Desenvolvedor  
