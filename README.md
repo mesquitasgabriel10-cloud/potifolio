@@ -88,16 +88,7 @@ Projeto desenvolvido durante atividades acadêmicas.
 - Melhorar organização de código
 - Utilizar boas práticas
 
----
-
-# 🌐 GitHub Pages
-
-O projeto pode ser acessado através do GitHub Pages:
-
-```txt
-https://SEU-USUARIO.github.io/PortfolioHUB/
-```
-
+  
 ---
 
 # 🔗 Integração Profissional
@@ -125,8 +116,7 @@ Durante o desenvolvimento deste projeto foram praticados:
 ## Gabriel Mesquita
 
 💼 Estudante de Tecnologia  
-🚀 Futuro Desenvolvedor  
-🎨 Apaixonado por criatividade e programação  
+🚀 Futuro Desenvolvedor   
 
 </div>
 
